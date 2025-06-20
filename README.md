@@ -9,6 +9,10 @@ This repository contains a **full-stack Employee Management application** built 
 
 ---
 
+https://github.com/user-attachments/assets/1434a805-bcb2-4f28-8515-2a7748f877be
+
+
+
 ## 📜 Submission Instructions
 
 ### ✅ What’s included:
