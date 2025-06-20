@@ -8,6 +8,8 @@ services:
       - "5000:5000"
     depends_on:
       - db
+    environment:
+      - DATABASE_URL=postgres://root:password@db:5432/employees
     env_file:
       - ./backend/.env
 
